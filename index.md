@@ -1,3 +1,9 @@
+# Yash Mehta's First CS193 Homework
+
+- I like the great slideshow presentations in CS193.
+- I like the humor used in lectures for this class.
+- I like learning content that's applicable to every part of CS in this class.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
